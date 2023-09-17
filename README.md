@@ -70,38 +70,38 @@ baixe o insomnia
 
 ![Alt text](image-1.png)
 
-# POST http://localhost:3000/contas/
+POST http://localhost:3000/contas/
 # cadastro de um usuario
 
 ![Alt text](image.png)
 
 
-# GET http://localhost:3000/contas?senha_banco=Cubos123Bank
+ GET http://localhost:3000/contas?senha_banco=Cubos123Bank
 ![Alt text](image-3.png)
 # listagem de usuario
 
 
-# DELETE http://localhost:3000/contas/id
+ DELETE http://localhost:3000/contas/id
 ![Alt text](image-4.png)
 # excluir usuario do banco 
 
-# POST http://localhost:3000/contas/trasacoes/depositar
+ POST http://localhost:3000/contas/trasacoes/depositar
 ![Alt text](image-5.png)
 # fazer deposito
 
-# POST http://localhost:3000/contas/trasacoes/sacar
+ POST http://localhost:3000/contas/trasacoes/sacar
 ![Alt text](image-6.png)
 # fazer saque de conta
 
-# POST http://localhost:3000/contas/transacoes/transferir
+ POST http://localhost:3000/contas/transacoes/transferir
 ![Alt text](image-7.png)
 # fazer transferecias entre contas
 
-# GET http://localhost:3000/contas/saldo?numero=1&senha=12345
+ GET http://localhost:3000/contas/saldo?numero=1&senha=12345
 ![Alt text](image-8.png)
 # consulta saldo de conta
 
-# GET http://localhost:3000/contas/extrato?numero=1&senha=12345
+GET http://localhost:3000/contas/extrato?numero=1&senha=12345
 ![Alt text](image-9.png)
 # extrato banacario de uma conta
 
