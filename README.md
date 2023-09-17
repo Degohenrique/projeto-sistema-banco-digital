@@ -59,7 +59,7 @@ Certifique-se de ter o seguinte instalado em seu ambiente de desenvolvimento:
 Para executar o banco digital, você pode usar o seguinte comando:
 
 ```bash
-node index.js
+node npm run dev 
 ```
 
 A partir daqui, você pode interagir com o banco digital por meio de um console ou interface de linha de comando.
