@@ -51,7 +51,8 @@ Certifique-se de ter o seguinte instalado em seu ambiente de desenvolvimento:
 3. Instale as dependências:
 
    ```bash
-   npm install 
+   npm install express
+   npm install nodemon 
    ```
 
 ## Uso
