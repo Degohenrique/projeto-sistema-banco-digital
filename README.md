@@ -69,41 +69,41 @@ A partir daqui, você pode interagir com o banco digital por meio de um console 
 # executar
 baixe o insomnia
 
-![Alt text](image-1.png)
+![Alt text](https://github.com/Degohenrique/projeto-sistema-banco-digital/blob/d33707b455bf2988633384e8c502fee84695c82a/projeto%20banco%20digital/imagem/image-1.png)
 
 POST http://localhost:3000/contas/
 # cadastro de um usuario
 
-![Alt text](image.png)
+![Alt text](https://github.com/Degohenrique/projeto-sistema-banco-digital/blob/d33707b455bf2988633384e8c502fee84695c82a/projeto%20banco%20digital/imagem/image.png)
 
 
  GET http://localhost:3000/contas?senha_banco=Cubos123Bank
-![Alt text](image-3.png)
+![Alt text](https://github.com/Degohenrique/projeto-sistema-banco-digital/blob/d33707b455bf2988633384e8c502fee84695c82a/projeto%20banco%20digital/imagem/image-3.png)
 # listagem de usuario
 
 
  DELETE http://localhost:3000/contas/id
-![Alt text](image-4.png)
+![Alt text](https://github.com/Degohenrique/projeto-sistema-banco-digital/blob/d33707b455bf2988633384e8c502fee84695c82a/projeto%20banco%20digital/imagem/image-4.png)
 # excluir usuario do banco 
 
  POST http://localhost:3000/contas/trasacoes/depositar
-![Alt text](image-5.png)
+![Alt text](https://github.com/Degohenrique/projeto-sistema-banco-digital/blob/d33707b455bf2988633384e8c502fee84695c82a/projeto%20banco%20digital/imagem/image-5.png)
 # fazer deposito
 
  POST http://localhost:3000/contas/trasacoes/sacar
-![Alt text](image-6.png)
+![Alt text](https://github.com/Degohenrique/projeto-sistema-banco-digital/blob/d33707b455bf2988633384e8c502fee84695c82a/projeto%20banco%20digital/imagem/image-6.png)
 # fazer saque de conta
 
  POST http://localhost:3000/contas/transacoes/transferir
-![Alt text](image-7.png)
+![Alt text](https://github.com/Degohenrique/projeto-sistema-banco-digital/blob/d33707b455bf2988633384e8c502fee84695c82a/projeto%20banco%20digital/imagem/image-7.png)
 # fazer transferecias entre contas
 
  GET http://localhost:3000/contas/saldo?numero=1&senha=12345
-![Alt text](image-8.png)
+![Alt text](https://github.com/Degohenrique/projeto-sistema-banco-digital/blob/d33707b455bf2988633384e8c502fee84695c82a/projeto%20banco%20digital/imagem/image-8.png)
 # consulta saldo de conta
 
 GET http://localhost:3000/contas/extrato?numero=1&senha=12345
-![Alt text](image-9.png)
+![Alt text](https://github.com/Degohenrique/projeto-sistema-banco-digital/blob/d33707b455bf2988633384e8c502fee84695c82a/projeto%20banco%20digital/imagem/image-9.png)
 # extrato banacario de uma conta
 
 ## Contribuição
